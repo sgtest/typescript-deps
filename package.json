@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "name": "typescript-deps",
+  "description": "Typescript language server test with external dependencies",
+  "keywords": [
+    "LSP",
+    "sourcegraph",
+    "typescript"
+  ],
+  "homepage": "https://sourcegraph.com/",
+  "author": {
+    "name": "Beyang Liu",
+    "email": "beyang@sourcegraph.com",
+    "url": "http://beyang.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgtest/typescript-deps"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "typescript": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.41"
+  }
+}

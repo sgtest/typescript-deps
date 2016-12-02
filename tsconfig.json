@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"baseUrl": ".",
+		"lib": ["es2016", "dom"],
+		"types": ["lodash"],
+		"strictNullChecks": true,
+		"experimentalDecorators": true,
+		"outDir": "build"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
