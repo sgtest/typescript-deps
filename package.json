@@ -18,6 +18,7 @@
     "url": "https://github.com/sgtest/typescript-deps"
   },
   "dependencies": {
+    "@angular/core": "^2.2.4",
     "lodash": "^4.17.2",
     "typescript": "^2.1.1"
   },

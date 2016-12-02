@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@angular/core@^2.2.4":
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.2.4.tgz#d00d5cfc734fd610cbafc14eb0749c957f004aa9"
+
 "@types/lodash@^4.14.41":
   version "4.14.41"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.41.tgz#6f65b0453778d482dc11fc11601c5c7bc98f04d0"
